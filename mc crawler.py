@@ -3,7 +3,6 @@ import csv
 import re
 import requests
 
-
 def get_html(url):
   """ Returns the HTML of the url page """
 
